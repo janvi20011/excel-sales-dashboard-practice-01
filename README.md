@@ -27,7 +27,7 @@ The dashboard was designed to analyze:
 - Geographic distribution of customers
 
 ---
-##Datasets
+## Datasets
 <a href="https://github.com/janvi20011/excel-sales-dashboard-practice-01/blob/main/SalesDashboard.xlsx">Datasets<a/>
 ---
 
