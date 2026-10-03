@@ -152,6 +152,12 @@ These filters allow users to analyze different customer segments.
 -<a href= "https://github.com/janvi20011/excel-sales-dashboard-practice-01/blob/main/ExcelSalesDashboard.png">Dashboard<a/>
 ---
 
+## Dashboard
+  <img width="1863" height="940" alt="ExcelSalesDashboard" src="https://github.com/user-attachments/assets/66737c16-c3af-482c-92f2-603533fcb368" />
+
+
+---
+
 
 ## Business Questions Explored
 The dashboard helps answer questions such as:
@@ -205,7 +211,4 @@ As part of my Data Analytics learning journey, I plan to further improve my skil
 - Building similar dashboards using Power BI
 - Combining SQL and Power BI in future projects
 ---
-## Dashboard
-  <img width="1863" height="940" alt="ExcelSalesDashboard" src="https://github.com/user-attachments/assets/66737c16-c3af-482c-92f2-603533fcb368" />
-
 
