@@ -204,4 +204,7 @@ As part of my Data Analytics learning journey, I plan to further improve my skil
 - Improving dashboard storytelling
 - Building similar dashboards using Power BI
 - Combining SQL and Power BI in future projects
+---
+## Dashboard
+  
 
