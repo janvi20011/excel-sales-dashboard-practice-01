@@ -148,9 +148,7 @@ The dashboard contains interactive slicers for exploring the data.
 These filters allow users to analyze different customer segments.
 
 ---
-## Datasets & Dashboard Preview
--<a href= "https://github.com/janvi20011/excel-sales-dashboard-practice-01/blob/main/ExcelSalesDashboard.png">Dashboard<a/>
----
+
 
 ## Dashboard
   <img width="1863" height="940" alt="ExcelSalesDashboard" src="https://github.com/user-attachments/assets/66737c16-c3af-482c-92f2-603533fcb368" />
