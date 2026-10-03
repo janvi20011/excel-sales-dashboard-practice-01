@@ -206,5 +206,6 @@ As part of my Data Analytics learning journey, I plan to further improve my skil
 - Combining SQL and Power BI in future projects
 ---
 ## Dashboard
-  
+  <img width="1863" height="940" alt="ExcelSalesDashboard" src="https://github.com/user-attachments/assets/66737c16-c3af-482c-92f2-603533fcb368" />
+
 
